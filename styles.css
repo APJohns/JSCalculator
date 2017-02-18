@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: 'Roboto';
+  background-color: #a1bbce; }
+
+#calcForm {
+  margin: 50px auto;
+  padding: 15px 10px;
+  width: 350px;
+  text-align: center;
+  background-color: #555;
+  box-shadow: 10px 10px 10px #444;
+  border-radius: 10px; }
+
+input {
+  width: 75px;
+  height: 75px;
+  margin: 4px;
+  font-size: 30px; }
+
+#screen {
+  margin: auto;
+  width: 312px;
+  height: 75px;
+  background-color: #777;
+  color: #ddd;
+  font-size: 30px;
+  text-align: left;
+  padding: 5px 10px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  border-radius: 10px; }
+
+a {
+  color: #991b1b; }
+
+a:hover {
+  color: #555; }
+
+/*# sourceMappingURL=styles.css.map */
